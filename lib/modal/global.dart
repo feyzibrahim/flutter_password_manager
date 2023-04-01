@@ -1,0 +1,1 @@
+bool floatIcon = true;
